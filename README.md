@@ -6,3 +6,6 @@ Leadership
 
 Meditation and Mindfulness
 - Power Of Now - No matter how bad the situation is, the present moment is always ok.
+
+Technical 
+- Software Engineering at Google, Lessons Learned from Programming Over Time
